@@ -1,4 +1,6 @@
-# Projet_DevOps_VM (Name of the repo)
+# Projet_DevOps_VM (Name of the Repository)
+
+clean version -- no useless files 
 
 # Project DevOps Micheli Valentine
 

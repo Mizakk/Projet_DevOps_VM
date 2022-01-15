@@ -84,3 +84,4 @@ jobs:
   - file: /var/jenkins_config/jobs/sb3t.groovy
   - file: /var/jenkins_config/jobs/terraform.groovy
   - file: /var/jenkins_config/jobs/terraform-destroy.groovy
+  - file: /var/jenkins_config/jobs/ansible.groovy

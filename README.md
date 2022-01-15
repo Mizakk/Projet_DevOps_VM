@@ -1,4 +1,4 @@
-# Projet_DevOps_VM
+# Projet_DevOps_VM (Name of the repo)
 
 # Project DevOps Micheli Valentine
 

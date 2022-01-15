@@ -16,6 +16,7 @@ services:
       - jenkins_home:/var/jenkins_home
       - ./conf:/var/jenkins_config/
       - ../terraform/:/terraform/
+      - ../ansible/:/ansible/
     environment:
       - CASC_JENKINS_CONFIG=/var/jenkins_config/jenkins.yaml
       - JENKINS_ADMIN_ID=admin
